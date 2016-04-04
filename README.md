@@ -1,4 +1,4 @@
-# dentalwebsite
+# dentalwebsite webapplication
 
 
 This is the code for a responsive and interactive patient tracking, appointment booking systems for an imaginary dental clinic "Joaquina Dental"
